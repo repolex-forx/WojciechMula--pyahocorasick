@@ -1,0 +1,11 @@
+{
+  "org": "WojciechMula",
+  "repo": "pyahocorasick",
+  "versions": [
+    {
+      "commit": "4e28d29898f1019d9706485b2a06026466814d9d",
+      "tag": "v2.3.1",
+      "parsed_at": "2026-10-18T05:32:00.222540+00:00"
+    }
+  ]
+}
