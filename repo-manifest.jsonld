@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/WojciechMula/pyahocorasick/commit/4e28d29898f1019d9706485b2a06026466814d9d",
       "git:hexsha": "4e28d29898f1019d9706485b2a06026466814d9d",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.3.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.3.1",
+      "repolex:parsedAt": "2026-10-18T05:32:00.221914+00:00"
     },
     {
       "@id": "https://repolex.ai/r/WojciechMula/pyahocorasick/commit/055d77fdf3e2e41e0616b3591ad0385035591a8b",
